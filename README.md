@@ -10,13 +10,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maik474&hide_progress=true)
 
-## Tecnologias que uso
+## <h1 Style="color: ##9294ad">Tecnologias que uso</h1>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></br>
 </div>
 
+<h1 style="color: ##9294ad">Estudando todos os dias, não para ser o melhor. Mas para ser o mais preparado...</h1>
